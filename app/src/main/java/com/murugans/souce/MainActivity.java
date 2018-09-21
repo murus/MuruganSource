@@ -20,9 +20,9 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
-    private Observable<String> getObservable(){
-        return new Observable.just("Criket,Footbal") ;
-    }
+    /*private Observable<String> getObservable(){
+        return new Observable.just("Criket,Footbal,bike") ;
+    }*/
 
     private Observer<String>getObserver(){
         return new Observer<String>() {
@@ -44,9 +44,9 @@ public class MainActivity extends AppCompatActivity {
 
     private void doSomeWork(){
 
-        getObservable()
+        /*getObservable()
                 .subscribeOn(Schedulers.io())
                 .observeOn(AndroidSchedulers.mainThread())
-                .subscribe(getObserver());
+                .subscribe(getObserver());*/
     }
 }
