@@ -1,0 +1,169 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/murugan/AndroidStudioProjects/muru/app/src/main/AndroidManifest.xml:2:1-21:16
+INJECTED from /home/murugan/AndroidStudioProjects/muru/app/src/main/AndroidManifest.xml:2:1-21:16
+INJECTED from /home/murugan/AndroidStudioProjects/muru/app/src/main/AndroidManifest.xml:2:1-21:16
+INJECTED from /home/murugan/AndroidStudioProjects/muru/app/src/main/AndroidManifest.xml:2:1-21:16
+MERGED from [com.android.support:design:26.1.0] /home/murugan/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/4519339ddc040f73a0fa83365e1b5338/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/murugan/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/3a1008ab94c268c84a8e614934afef78/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:cardview-v7:26.1.0] /home/murugan/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/d6a2aad612b6a506b4f4c0773c89c0f8/AndroidManifest.xml:17:1-28:12
+MERGED from [com.jakewharton:butterknife:8.6.0] /home/murugan/.gradle/caches/transforms-1/files-1.1/butterknife-8.6.0.aar/74f8528bd2c98ab1eb2627eae175f36e/AndroidManifest.xml:2:1-7:12
+MERGED from [com.android.support:transition:26.1.0] /home/murugan/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/34de97b5506b5deded2a82082b7034bf/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /home/murugan/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/97694ab94d65a39d7851720d76e89277/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/murugan/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/5f7f65f5bb8d665b7a56e7fbfeeb1aeb/AndroidManifest.xml:17:1-31:12
+MERGED from [com.amitshekhar.android:rx2-android-networking:1.0.1] /home/murugan/.gradle/caches/transforms-1/files-1.1/rx2-android-networking-1.0.1.aar/79531851f0d57d48e26047b905bf78d2/AndroidManifest.xml:20:1-29:12
+MERGED from [com.amitshekhar.android:android-networking:1.0.1] /home/murugan/.gradle/caches/transforms-1/files-1.1/android-networking-1.0.1.aar/9e77c18d08f14c75045be5555e009f77/AndroidManifest.xml:18:1-27:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] /home/murugan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/6b601a7a9bf1c5cc915da5baacbce2f3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] /home/murugan/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/43e5bdce620326ce5b9ac291c8bb78ec/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] /home/murugan/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/08fbc17da8a01b7eecee967cf7c7000b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/murugan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/4b58e27d5e03640c4c31384419effcb0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/murugan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/88b3732eb3f2ff1c5373da9fe42300fa/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:percent:26.1.0] /home/murugan/.gradle/caches/transforms-1/files-1.1/percent-26.1.0.aar/a684da9bee4952b522e170d65025a5e3/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-core-ui:27.0.2] /home/murugan/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/3c4c8167a90cf94f53c622410bed1b7c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] /home/murugan/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/0ed5ec9b09400489289eade9436e7e5b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/murugan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/27cd307259badc4d23742b94542b7605/AndroidManifest.xml:2:1-11:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] /home/murugan/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.1.aar/0cedbab4f1536e785617a91135239246/AndroidManifest.xml:15:1-21:12
+MERGED from [com.jakewharton.timber:timber:4.5.1] /home/murugan/.gradle/caches/transforms-1/files-1.1/timber-4.5.1.aar/86aea36f15e7960e7671ab4eedf658ca/AndroidManifest.xml:2:1-10:12
+MERGED from [com.android.support:multidex:1.0.3] /home/murugan/.gradle/caches/transforms-1/files-1.1/multidex-1.0.3.aar/b207bdb0ac63325a83f1dbef77749ff5/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/murugan/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/95bce5c97f39033711004437df438b40/AndroidManifest.xml:17:1-24:12
+INJECTED from /home/murugan/AndroidStudioProjects/muru/app/src/main/AndroidManifest.xml:2:1-21:16
+INJECTED from /home/murugan/AndroidStudioProjects/muru/app/src/main/AndroidManifest.xml:2:1-21:16
+INJECTED from /home/murugan/AndroidStudioProjects/muru/app/src/main/AndroidManifest.xml:2:1-21:16
+	package
+		ADDED from /home/murugan/AndroidStudioProjects/muru/app/src/main/AndroidManifest.xml:3:5-33
+		INJECTED from /home/murugan/AndroidStudioProjects/muru/app/src/main/AndroidManifest.xml
+		INJECTED from /home/murugan/AndroidStudioProjects/muru/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/murugan/AndroidStudioProjects/muru/app/src/main/AndroidManifest.xml
+		ADDED from /home/murugan/AndroidStudioProjects/muru/app/src/main/AndroidManifest.xml:2:1-21:16
+		INJECTED from /home/murugan/AndroidStudioProjects/muru/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/murugan/AndroidStudioProjects/muru/app/src/main/AndroidManifest.xml
+		ADDED from /home/murugan/AndroidStudioProjects/muru/app/src/main/AndroidManifest.xml:2:1-21:16
+		INJECTED from /home/murugan/AndroidStudioProjects/muru/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/murugan/AndroidStudioProjects/muru/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/murugan/AndroidStudioProjects/muru/app/src/main/AndroidManifest.xml:6:5-20:19
+MERGED from [com.android.support:design:26.1.0] /home/murugan/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/4519339ddc040f73a0fa83365e1b5338/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] /home/murugan/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/4519339ddc040f73a0fa83365e1b5338/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/murugan/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/3a1008ab94c268c84a8e614934afef78/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/murugan/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/3a1008ab94c268c84a8e614934afef78/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:cardview-v7:26.1.0] /home/murugan/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/d6a2aad612b6a506b4f4c0773c89c0f8/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:cardview-v7:26.1.0] /home/murugan/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/d6a2aad612b6a506b4f4c0773c89c0f8/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] /home/murugan/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/34de97b5506b5deded2a82082b7034bf/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] /home/murugan/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/34de97b5506b5deded2a82082b7034bf/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/murugan/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/97694ab94d65a39d7851720d76e89277/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/murugan/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/97694ab94d65a39d7851720d76e89277/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/murugan/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/5f7f65f5bb8d665b7a56e7fbfeeb1aeb/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/murugan/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/5f7f65f5bb8d665b7a56e7fbfeeb1aeb/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:percent:26.1.0] /home/murugan/.gradle/caches/transforms-1/files-1.1/percent-26.1.0.aar/a684da9bee4952b522e170d65025a5e3/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:percent:26.1.0] /home/murugan/.gradle/caches/transforms-1/files-1.1/percent-26.1.0.aar/a684da9bee4952b522e170d65025a5e3/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/murugan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/27cd307259badc4d23742b94542b7605/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/murugan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/27cd307259badc4d23742b94542b7605/AndroidManifest.xml:9:5-20
+MERGED from [com.jakewharton.timber:timber:4.5.1] /home/murugan/.gradle/caches/transforms-1/files-1.1/timber-4.5.1.aar/86aea36f15e7960e7671ab4eedf658ca/AndroidManifest.xml:8:5-20
+MERGED from [com.jakewharton.timber:timber:4.5.1] /home/murugan/.gradle/caches/transforms-1/files-1.1/timber-4.5.1.aar/86aea36f15e7960e7671ab4eedf658ca/AndroidManifest.xml:8:5-20
+	android:supportsRtl
+		ADDED from /home/murugan/AndroidStudioProjects/muru/app/src/main/AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from /home/murugan/AndroidStudioProjects/muru/app/src/main/AndroidManifest.xml:9:9-41
+	android:roundIcon
+		ADDED from /home/murugan/AndroidStudioProjects/muru/app/src/main/AndroidManifest.xml:10:9-54
+	android:icon
+		ADDED from /home/murugan/AndroidStudioProjects/muru/app/src/main/AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from /home/murugan/AndroidStudioProjects/muru/app/src/main/AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from /home/murugan/AndroidStudioProjects/muru/app/src/main/AndroidManifest.xml:12:9-40
+activity#com.murugans.souce.MainActivity
+ADDED from /home/murugan/AndroidStudioProjects/muru/app/src/main/AndroidManifest.xml:13:9-19:20
+	android:name
+		ADDED from /home/murugan/AndroidStudioProjects/muru/app/src/main/AndroidManifest.xml:13:19-65
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/murugan/AndroidStudioProjects/muru/app/src/main/AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from /home/murugan/AndroidStudioProjects/muru/app/src/main/AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from /home/murugan/AndroidStudioProjects/muru/app/src/main/AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/murugan/AndroidStudioProjects/muru/app/src/main/AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from /home/murugan/AndroidStudioProjects/muru/app/src/main/AndroidManifest.xml:17:27-74
+uses-sdk
+INJECTED from /home/murugan/AndroidStudioProjects/muru/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/murugan/AndroidStudioProjects/muru/app/src/main/AndroidManifest.xml
+INJECTED from /home/murugan/AndroidStudioProjects/muru/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:26.1.0] /home/murugan/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/4519339ddc040f73a0fa83365e1b5338/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] /home/murugan/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/4519339ddc040f73a0fa83365e1b5338/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/murugan/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/3a1008ab94c268c84a8e614934afef78/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/murugan/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/3a1008ab94c268c84a8e614934afef78/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:26.1.0] /home/murugan/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/d6a2aad612b6a506b4f4c0773c89c0f8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:26.1.0] /home/murugan/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/d6a2aad612b6a506b4f4c0773c89c0f8/AndroidManifest.xml:20:5-44
+MERGED from [com.jakewharton:butterknife:8.6.0] /home/murugan/.gradle/caches/transforms-1/files-1.1/butterknife-8.6.0.aar/74f8528bd2c98ab1eb2627eae175f36e/AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton:butterknife:8.6.0] /home/murugan/.gradle/caches/transforms-1/files-1.1/butterknife-8.6.0.aar/74f8528bd2c98ab1eb2627eae175f36e/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:transition:26.1.0] /home/murugan/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/34de97b5506b5deded2a82082b7034bf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] /home/murugan/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/34de97b5506b5deded2a82082b7034bf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /home/murugan/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/97694ab94d65a39d7851720d76e89277/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /home/murugan/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/97694ab94d65a39d7851720d76e89277/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/murugan/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/5f7f65f5bb8d665b7a56e7fbfeeb1aeb/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/murugan/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/5f7f65f5bb8d665b7a56e7fbfeeb1aeb/AndroidManifest.xml:21:5-23:63
+MERGED from [com.amitshekhar.android:rx2-android-networking:1.0.1] /home/murugan/.gradle/caches/transforms-1/files-1.1/rx2-android-networking-1.0.1.aar/79531851f0d57d48e26047b905bf78d2/AndroidManifest.xml:25:5-27:41
+MERGED from [com.amitshekhar.android:rx2-android-networking:1.0.1] /home/murugan/.gradle/caches/transforms-1/files-1.1/rx2-android-networking-1.0.1.aar/79531851f0d57d48e26047b905bf78d2/AndroidManifest.xml:25:5-27:41
+MERGED from [com.amitshekhar.android:android-networking:1.0.1] /home/murugan/.gradle/caches/transforms-1/files-1.1/android-networking-1.0.1.aar/9e77c18d08f14c75045be5555e009f77/AndroidManifest.xml:23:5-25:41
+MERGED from [com.amitshekhar.android:android-networking:1.0.1] /home/murugan/.gradle/caches/transforms-1/files-1.1/android-networking-1.0.1.aar/9e77c18d08f14c75045be5555e009f77/AndroidManifest.xml:23:5-25:41
+MERGED from [com.android.support:appcompat-v7:27.0.2] /home/murugan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/6b601a7a9bf1c5cc915da5baacbce2f3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /home/murugan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/6b601a7a9bf1c5cc915da5baacbce2f3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /home/murugan/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/43e5bdce620326ce5b9ac291c8bb78ec/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /home/murugan/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/43e5bdce620326ce5b9ac291c8bb78ec/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /home/murugan/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/08fbc17da8a01b7eecee967cf7c7000b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /home/murugan/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/08fbc17da8a01b7eecee967cf7c7000b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/murugan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/4b58e27d5e03640c4c31384419effcb0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/murugan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/4b58e27d5e03640c4c31384419effcb0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/murugan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/88b3732eb3f2ff1c5373da9fe42300fa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/murugan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/88b3732eb3f2ff1c5373da9fe42300fa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:percent:26.1.0] /home/murugan/.gradle/caches/transforms-1/files-1.1/percent-26.1.0.aar/a684da9bee4952b522e170d65025a5e3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:percent:26.1.0] /home/murugan/.gradle/caches/transforms-1/files-1.1/percent-26.1.0.aar/a684da9bee4952b522e170d65025a5e3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /home/murugan/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/3c4c8167a90cf94f53c622410bed1b7c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /home/murugan/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/3c4c8167a90cf94f53c622410bed1b7c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /home/murugan/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/0ed5ec9b09400489289eade9436e7e5b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /home/murugan/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/0ed5ec9b09400489289eade9436e7e5b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/murugan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/27cd307259badc4d23742b94542b7605/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/murugan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/27cd307259badc4d23742b94542b7605/AndroidManifest.xml:5:5-7:41
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] /home/murugan/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.1.aar/0cedbab4f1536e785617a91135239246/AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] /home/murugan/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.1.aar/0cedbab4f1536e785617a91135239246/AndroidManifest.xml:19:5-43
+MERGED from [com.jakewharton.timber:timber:4.5.1] /home/murugan/.gradle/caches/transforms-1/files-1.1/timber-4.5.1.aar/86aea36f15e7960e7671ab4eedf658ca/AndroidManifest.xml:6:5-43
+MERGED from [com.jakewharton.timber:timber:4.5.1] /home/murugan/.gradle/caches/transforms-1/files-1.1/timber-4.5.1.aar/86aea36f15e7960e7671ab4eedf658ca/AndroidManifest.xml:6:5-43
+MERGED from [com.android.support:multidex:1.0.3] /home/murugan/.gradle/caches/transforms-1/files-1.1/multidex-1.0.3.aar/b207bdb0ac63325a83f1dbef77749ff5/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.3] /home/murugan/.gradle/caches/transforms-1/files-1.1/multidex-1.0.3.aar/b207bdb0ac63325a83f1dbef77749ff5/AndroidManifest.xml:20:5-43
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/murugan/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/95bce5c97f39033711004437df438b40/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/murugan/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/95bce5c97f39033711004437df438b40/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/murugan/AndroidStudioProjects/muru/app/src/main/AndroidManifest.xml
+INJECTED from /home/murugan/AndroidStudioProjects/muru/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.1.0] /home/murugan/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/4519339ddc040f73a0fa83365e1b5338/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /home/murugan/AndroidStudioProjects/muru/app/src/main/AndroidManifest.xml
+		ADDED from /home/murugan/AndroidStudioProjects/muru/app/src/main/AndroidManifest.xml
+		INJECTED from /home/murugan/AndroidStudioProjects/muru/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/murugan/AndroidStudioProjects/muru/app/src/main/AndroidManifest.xml
+		ADDED from /home/murugan/AndroidStudioProjects/muru/app/src/main/AndroidManifest.xml
+		INJECTED from /home/murugan/AndroidStudioProjects/muru/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.1.0] /home/murugan/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/4519339ddc040f73a0fa83365e1b5338/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/murugan/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/3a1008ab94c268c84a8e614934afef78/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/murugan/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/3a1008ab94c268c84a8e614934afef78/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:cardview-v7:26.1.0] /home/murugan/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/d6a2aad612b6a506b4f4c0773c89c0f8/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:cardview-v7:26.1.0] /home/murugan/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/d6a2aad612b6a506b4f4c0773c89c0f8/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] /home/murugan/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/34de97b5506b5deded2a82082b7034bf/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] /home/murugan/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/34de97b5506b5deded2a82082b7034bf/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /home/murugan/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/97694ab94d65a39d7851720d76e89277/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /home/murugan/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/97694ab94d65a39d7851720d76e89277/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/murugan/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/5f7f65f5bb8d665b7a56e7fbfeeb1aeb/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/murugan/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/5f7f65f5bb8d665b7a56e7fbfeeb1aeb/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:percent:26.1.0] /home/murugan/.gradle/caches/transforms-1/files-1.1/percent-26.1.0.aar/a684da9bee4952b522e170d65025a5e3/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:percent:26.1.0] /home/murugan/.gradle/caches/transforms-1/files-1.1/percent-26.1.0.aar/a684da9bee4952b522e170d65025a5e3/AndroidManifest.xml:23:9-25:38
+	android:value
+		ADDED from [com.android.support:design:26.1.0] /home/murugan/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/4519339ddc040f73a0fa83365e1b5338/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.1.0] /home/murugan/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/4519339ddc040f73a0fa83365e1b5338/AndroidManifest.xml:27:13-51
