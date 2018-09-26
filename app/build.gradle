@@ -1,8 +1,8 @@
 apply plugin: 'com.android.application'
 
-def keystorePropertiesFile = rootProject.file("../keystore.properties")
-def keystoreProperties = new Properties()
-keystoreProperties.load(new FileInputStream(keystorePropertiesFile))
+//def keystorePropertiesFile = rootProject.file("../keystore.properties")
+//def keystoreProperties = new Properties()
+//keystoreProperties.load(new FileInputStream(keystorePropertiesFile))
 
 android {
 
@@ -37,7 +37,7 @@ android {
             def aliasName = System.getenv('keyalias')
             def keyStorePath = System.getenv('keystorepath')
 
-            storeFile file("${keyStorePath}")
+           // storeFile file("${keyStorePath}")
             keyAlias "${aliasName}"
             keyPassword "${password}"
             storePassword "${storePass}"
@@ -45,10 +45,10 @@ android {
 
         devrelease {
 
-            keyAlias keystoreProperties['keyAlias']
-            keyPassword keystoreProperties['keyPassword']
-            storeFile file(keystoreProperties['storeFile'])
-            storePassword keystoreProperties['storePassword']
+            //keyAlias keystoreProperties['keyAlias']
+            //keyPassword keystoreProperties['keyPassword']
+           // storeFile file(keystoreProperties['storeFile'])
+//            storePassword keystoreProperties['storePassword']
         }
     }
 
